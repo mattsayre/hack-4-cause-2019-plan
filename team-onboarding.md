@@ -1,5 +1,5 @@
 # team onboarding
-All teams go thru the following steps to get onboarded
+All Hack for a Cause teams go thru the following steps to get onboarded at the event:
 
 - [ ] sign-up on the [onboarding form](https://forms.gle/aYMg9M2vFdFTgAhH6)
 - [ ] have an OSS Wrangler create a repo in the [this organization](https://github.com/Hack4Eugene) using the [short-challenge-name]-[team-name] format
@@ -16,4 +16,4 @@ All teams go thru the following steps to get onboarded
 - community-enguagement-tools / City Of Eugene: Tools For Community Engagement
 - urban-pong / City Of Eugene - Parking Services: Urban Pong
 - carry-it-forward / Carry It Forward: Top 5 Donations For Specific Chronically Homeless Folks
-- lane-county-gov / Lane County Government
+- speed-up-america / Lane County Government: Speed Up America (Non-competitive Challenge)
